@@ -13,3 +13,4 @@ Adapt the Project Template (with the LED Task included) so a semaphore is freed 
 The switch S1 must be set to “BTN”
 
 # Points
+9/10
